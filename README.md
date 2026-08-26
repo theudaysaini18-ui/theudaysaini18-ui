@@ -22,9 +22,9 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[PaperPilot]([YOUR_PAPERPILOT_GITHUB_LINK](https://github.com/theudaysaini18-ui/paperpilot-ai-rag-chatbot))** | Upload a PDF, ask questions, get grounded answers | LangChain · ChromaDB · Groq · Streamlit |
-| **[LSTM Text Generator]([YOUR_LSTM_GITHUB_LINK](https://github.com/theudaysaini18-ui/Sentence-Completion-Project-LSTM-))** | Generates sentence continuations from a prompt | TensorFlow/Keras · LSTM · Streamlit |
-| **[CareQueue]([YOUR_PROJECT_GITHUB_LINK](https://github.com/theudaysaini18-ui/careQueueMvp))** | A lightweight hospital dashboard that shows real‑time queues, predicted waiting times per patient, and simple recommendations to rebalance doctors and slots. | FastAPI, Starlette, HTML, Bootstrap 5, custom CSS,|
+| **[PaperPilot](https://github.com/theudaysaini18-ui/paperpilot-ai-rag-chatbot)** | Upload a PDF, ask questions, get grounded answers | LangChain · ChromaDB · Groq · Streamlit |
+| **[LSTM Text Generator](https://github.com/theudaysaini18-ui/Sentence-Completion-Project-LSTM-)** | Generates sentence continuations from a prompt | TensorFlow/Keras · LSTM · Streamlit |
+| **[CareQueue](https://github.com/theudaysaini18-ui/careQueueMvp)** | A lightweight hospital dashboard that shows real‑time queues, predicted waiting times per patient, and simple recommendations to rebalance doctors and slots. | FastAPI, Starlette, HTML, Bootstrap 5, custom CSS,|
 
 ---
 
