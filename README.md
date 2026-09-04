@@ -23,7 +23,7 @@
 | Project | What it does | Built with |
 |---|---|---|
 | **[PaperPilot](https://github.com/theudaysaini18-ui/paperpilot-ai-rag-chatbot)** | Upload a PDF, ask questions, get grounded answers | LangChain · ChromaDB · Groq · Streamlit |
-| **[LSTM Text Generator](https://github.com/theudaysaini18-ui/Sentence-Completion-Project-LSTM-)** | Generates sentence continuations from a prompt | TensorFlow/Keras · LSTM · Streamlit |
+| **[Aletheia Research](https://github.com/theudaysaini18-ui/agentic-rag-research-assistant-genai)** | Aletheia Research is an agentic Retrieval-Augmented Generation (RAG) application that researches questions using an uploaded PDF and relevant web sources.| LangGraph, LangChain, ChromaDB, Tavily, FastAPI, Groq, Railway|
 | **[CareQueue](https://github.com/theudaysaini18-ui/careQueueMvp)** | A lightweight hospital dashboard that shows real‑time queues, predicted waiting times per patient, and simple recommendations to rebalance doctors and slots. | FastAPI, Starlette, HTML, Bootstrap 5, custom CSS,|
 
 ---
